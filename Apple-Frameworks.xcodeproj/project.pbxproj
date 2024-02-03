@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		76B467AA2B6EC8C40065A5D4 /* SafariView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76B467A92B6EC8C40065A5D4 /* SafariView.swift */; };
 		96B810E72B6D238500D52952 /* Apple_FrameworksApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96B810E62B6D238500D52952 /* Apple_FrameworksApp.swift */; };
 		96B810E92B6D238500D52952 /* FrameworkGridView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96B810E82B6D238500D52952 /* FrameworkGridView.swift */; };
 		96B810EB2B6D238700D52952 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 96B810EA2B6D238700D52952 /* Assets.xcassets */; };
@@ -38,6 +39,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		76B467A92B6EC8C40065A5D4 /* SafariView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafariView.swift; sourceTree = "<group>"; };
 		96B810E32B6D238500D52952 /* Apple-Frameworks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Apple-Frameworks.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		96B810E62B6D238500D52952 /* Apple_FrameworksApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Apple_FrameworksApp.swift; sourceTree = "<group>"; };
 		96B810E82B6D238500D52952 /* FrameworkGridView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameworkGridView.swift; sourceTree = "<group>"; };
@@ -110,6 +112,7 @@
 				96B811122B6D348300D52952 /* FrameworkDetailView.swift */,
 				96B811142B6D3A5800D52952 /* AFButton.swift */,
 				96B811162B6D3DA500D52952 /* FrameworkGridViewModel.swift */,
+				76B467A92B6EC8C40065A5D4 /* SafariView.swift */,
 			);
 			path = "Apple-Frameworks";
 			sourceTree = "<group>";
@@ -275,6 +278,7 @@
 				96B811152B6D3A5900D52952 /* AFButton.swift in Sources */,
 				96B810E72B6D238500D52952 /* Apple_FrameworksApp.swift in Sources */,
 				96B811172B6D3DA500D52952 /* FrameworkGridViewModel.swift in Sources */,
+				76B467AA2B6EC8C40065A5D4 /* SafariView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
